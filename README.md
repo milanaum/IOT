@@ -105,3 +105,4 @@ https://www.kaggle.com/code/abduulrahmankhalid/birds-species-prediction-mobilene
 https://www.kaggle.com/code/emreiekyurt/bird-species-classification-with-deep-learning<br>
 https://www.kaggle.com/datasets/coolerextreme/cub-200-2011?resource=download <br>
 https://www.kaggle.com/code/emreiekyurt/bird-species-classification-with-deep-learning <br>
+https://www.kaggle.com/gpiosenka/100-bird-species<br>
