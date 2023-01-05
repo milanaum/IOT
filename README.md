@@ -413,3 +413,5 @@ https://www.kaggle.com/datasets/veeralakrishna/200-bird-species-with-11788-image
 https://github.com › manideepc › Bird-Species-Identifia... <br> code<br>
 
 Bird-Species-Recognition - Machine Learning Project - GitHubhttps://github.com › SwatiNH › Bird-Species-Recognition<br>
+https://www.kaggle.com/code/fareselmenshawii/birds-450-species-images-classification/notebook,<br>
+
