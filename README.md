@@ -411,3 +411,5 @@ https://towardsdatascience.com/controlling-a-mouse-with-your-eyes-f1097e7cf2e9<b
 https://www.kaggle.com/datasets/gpiosenka/100-bird-species 
 https://www.kaggle.com/datasets/veeralakrishna/200-bird-species-with-11788-images
 https://github.com › manideepc › Bird-Species-Identifia... <br> code<br>
+
+Bird-Species-Recognition - Machine Learning Project - GitHubhttps://github.com › SwatiNH › Bird-Species-Recognition<br>
