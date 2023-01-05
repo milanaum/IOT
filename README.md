@@ -102,3 +102,4 @@ https://github.com › manideepc › Bird-Species-Identifia... <br> code<br>
 Bird-Species-Recognition - Machine Learning Project - GitHubhttps://github.com › SwatiNH › Bird-Species-Recognition<br>
 https://www.kaggle.com/code/fareselmenshawii/birds-450-species-images-classification/notebook,<br>
 https://www.kaggle.com/code/abduulrahmankhalid/birds-species-prediction-mobilenetv2-acc-95 <br>
+https://www.kaggle.com/code/emreiekyurt/bird-species-classification-with-deep-learning<br>
