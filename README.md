@@ -106,3 +106,4 @@ https://www.kaggle.com/code/emreiekyurt/bird-species-classification-with-deep-le
 https://www.kaggle.com/datasets/coolerextreme/cub-200-2011?resource=download <br>
 https://www.kaggle.com/code/emreiekyurt/bird-species-classification-with-deep-learning <br>
 https://www.kaggle.com/gpiosenka/100-bird-species<br>
+https://github.com/LaurentVeyssier/Bird_Classifier_Tensorflow_Colab_Notebook>br>
